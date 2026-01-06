@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=280104&label=Profile%20views&color=0e75b6&style=flat" alt="280104" /> </p>
 
-- 🌱 Final year student looking for opportunites to connect and grow with professional in my field.
+- 🌱 recent Cs Grad looking for opportunites to connect and grow with professional in my field.
 
 - 💬 Ask me about **core java , python ,AI models, algorithms , web development**
 
-- 📫 How to reach me **21ht1a4332@gmail.com**
+- 📫 How to reach me **saisricharankolli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
